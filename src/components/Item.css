@@ -1,0 +1,10 @@
+.todo-item{
+    display: flex;
+    justify-content: space-between;
+    background-color: orange;
+    border: 1px solid ghostwhite;
+}
+
+.del-btn{
+    background-color: rgb(240, 96, 96);
+}
